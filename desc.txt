@@ -1,0 +1,23 @@
+Record voice memos, talks, music and songs in high quality
+
+
+Voice Recorder is a professional, easy voice and call recorder for Android devices. Use it for record voice memos, talks, music and songs in high quality. Designed for everybody, especially students, journalists and musicians. Voice recorder also supports call recording and external bluetooth microphone. Tags can be easily added to any part of the recording. Voice recorder recording quality is limited by the quality device's microphone. Fully compatible with Android Wear devices. Feel free to leave me a review :)
+
+Note: The call recording feature will work only on some devices.
+
+Features:
+ - Android Wear support
+ - Call recording
+ - Smooth playback
+ - Wifi voice memos transferring
+ - Display content from Google Drive
+ - Export to and import from Google Drive and DropBox
+ - Bluetooth recording
+ - Android App Shortcuts support
+ - Support stereo recording
+ - Recording in background
+ - Integration with widget
+ - Saving records to media library
+ - Silence skip, gain reduction, echo canceler
+
+If there are any problems, please contact me via e mail.
